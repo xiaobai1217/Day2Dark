@@ -1,0 +1,6 @@
+@article{zhang2022day2dark,
+  title={Day2Dark: Pseudo-Supervised Activity Recognition beyond Silent Daylight},
+  author={Zhang, Yunhua and Doughty, Hazel and Snoek, Cees GM},
+  journal={arXiv preprint arXiv:2212.02053},
+  year={2022}
+}
